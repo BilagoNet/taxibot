@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/taxibot/static/css/main.94c210f9.css",
+    "main.js": "/taxibot/static/js/main.49a5e642.js",
+    "static/media/svg": "/taxibot/static/media/2d82b92e720462f8dd3b.2d82b92e720462f8dd3b.svg",
+    "index.html": "/taxibot/index.html",
+    "main.94c210f9.css.map": "/taxibot/static/css/main.94c210f9.css.map",
+    "main.49a5e642.js.map": "/taxibot/static/js/main.49a5e642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c210f9.css",
+    "static/js/main.49a5e642.js"
+  ]
+}
